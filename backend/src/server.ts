@@ -20,7 +20,11 @@ async function start() {
   app.addContentTypeParser('application/json', { parseAs: 'string' }, app.getDefaultJsonParser('ignore', 'ignore'));
 
   // Activer CORS
-  await app.register(cors);
+  await app.register(cors, {
+    origin: "http://localhost:3001", 
+    methods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"], 
+  });
+  
 
   // Routes
   await app.register(itemRoutes, { prefix: "/items" });
