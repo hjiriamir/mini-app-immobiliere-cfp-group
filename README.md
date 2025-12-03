@@ -159,7 +159,7 @@ npm start
 ## 📫 Auteur
 
 - ✉️ Email: amirhjiri5@gmail.com
-- 💼 LinkedIn: (https://www.linkedin.com/in/amir-hjiri/)
+- 💼 LinkedIn: https://www.linkedin.com/in/amir-hjiri/
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" />
