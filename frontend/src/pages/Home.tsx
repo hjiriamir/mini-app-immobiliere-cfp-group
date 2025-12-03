@@ -144,8 +144,6 @@ const Home: React.FC = () => {
                 <select 
                   value={ITEMS_PER_PAGE}
                   onChange={(e) => {
-                    // Ici vous pourriez faire un état pour itemsPerPage si vous voulez le rendre dynamique
-                    // Pour l'instant c'est constant
                   }}
                   className="border border-gray-300 rounded-md px-2 py-1 text-sm"
                 >
