@@ -49,12 +49,12 @@ Architecture professionnelle : **Fastify (Backend)** + **React (Frontend)**.
 - Node.js  
 - Fastify  
 - Zod  
-- TypeScript (optionnel)  
+- TypeScript  
 
 ### 🎨 Frontend
 - React.js  
 - React Router  
-- CSS / Tailwind (optionnel)
+- CSS / Tailwind
 
 ---
 
