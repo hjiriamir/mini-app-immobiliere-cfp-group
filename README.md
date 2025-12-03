@@ -100,7 +100,7 @@ cd mini-app-immobiliere-cfp-group
 
 ```bash
 cd backend
-npm install
+npm install --legacy-peer-deps
 npm run dev
 ```
 
@@ -112,7 +112,7 @@ npm run dev
 
 ```bash
 cd ../frontend
-npm install
+npm install --legacy-peer-deps
 npm start
 ```
 
